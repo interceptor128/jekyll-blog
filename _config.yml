@@ -83,8 +83,8 @@ lang: ja-JP # Set the site language
 title: "セプタの技術ブログ" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
 description: "セプタの技術ブログです。" # Site description and default description, also used in jekyll-seo-tag
-url: "https://interceptor128.github.io/jekyll-blog" # Site url, also used in jekyll-seo-tag
-baseurl: "/"
+url: "jekyll-blog/" # Site url, also used in jekyll-seo-tag
+baseurl: "https://interceptor128.github.io/"
 repo: "https://github.com/interceptor128/jekyll-blog"
 email: ""
 # disqus: "alembic-1" # Blog post comments, uncomment the option and set the site ID from your Disqus account
