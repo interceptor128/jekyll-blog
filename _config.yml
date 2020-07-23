@@ -83,7 +83,7 @@ lang: ja-JP # Set the site language
 title: "セプタの技術ブログ" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
 description: "セプタの技術ブログです。" # Site description and default description, also used in jekyll-seo-tag
-url: "jekyll-blog" # Site url, also used in jekyll-seo-tag
+url: "https://interceptor128.github.io/jekyll-blog" # Site url, also used in jekyll-seo-tag
 baseurl: ""
 repo: "https://github.com/interceptor128/jekyll-blog"
 email: ""
